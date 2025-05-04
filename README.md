@@ -1,4 +1,4 @@
-# GitHub MIT License Checker
+# Add MIT License
 
 This script checks your GitHub repositories for MIT licenses and adds them where missing.
 
